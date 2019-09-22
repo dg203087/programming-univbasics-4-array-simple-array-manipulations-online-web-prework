@@ -11,7 +11,7 @@ def using_unshift(array, string)
 end
 
 def using_pop(array)
-  deleted_string = continents.pop
+  continents.pop
 end
 
 def pop_with_args(array)
